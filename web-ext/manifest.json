@@ -5,7 +5,7 @@
   "description": "Select DOM elements with selectors",
   "browser_specific_settings": {
     "gecko": {
-      "id": "67a499da-d397-4a2b-9e9e-cc71620d52ff",
+      "id": "selector-sync@YusukeTakeuchi",
       "strict_min_version": "109.0"
     }
   },
