@@ -1,4 +1,9 @@
-# build
+# Availability
+
+Available for Firefox here: https://addons.mozilla.org/firefox/addon/selector-sync/
+
+
+# Build
 
 ```
 $ npm run build:prod
