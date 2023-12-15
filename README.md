@@ -2,6 +2,7 @@
 
 Available for Firefox here: https://addons.mozilla.org/firefox/addon/selector-sync/
 
+Available for Chrome here: https://chromewebstore.google.com/detail/selector-sync/fffneahndbljhejfhpnhedfgmoikjfnh
 
 # Build
 
